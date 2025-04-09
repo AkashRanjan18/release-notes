@@ -1,4 +1,4 @@
-# Mozilla Release Notes
+# Mozilla Release Notes Main
 
 Release notes and system requirements for Mozilla products in JSON format.
 
